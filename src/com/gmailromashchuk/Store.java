@@ -15,7 +15,7 @@ public class Store {
         System.out.println("Order No 1 Client: " + name);
         System.out.println("Product: " + product);
         System.out.println("Price EUR " + price + ".");
-        System.out.println("Address: " + addr
+        System.out.println("Address: " + address);
         System.out.println("===================================");
 
         String name1;
