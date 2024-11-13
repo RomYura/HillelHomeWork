@@ -8,7 +8,7 @@ public class Store {
         String address;
 
         name = "Alice.";
-        product = "Smartphone";
+        product = "Smartphone,";
         price = 349.99f;
         address = "Moon Street, 10.";
 
@@ -24,7 +24,7 @@ public class Store {
         String address1;
 
         name1 = "Tom.";
-        product1 = "laptop";
+        product1 = "laptop,";
         price1 = 570.95f;
         address1 = "Terra Street, 17.";
 
