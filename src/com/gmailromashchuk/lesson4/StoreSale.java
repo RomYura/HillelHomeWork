@@ -8,14 +8,14 @@ public class StoreSale {
         double totalPrice = 12153.41;
         int days = 5;
 
-        summary(totalPrice, days, number);
+        summary (totalPrice, days, number);
 
 
         number++;
         totalPrice = 10486.85;
         days = 7;
 
-        summary(totalPrice, days, number);
+        summary (totalPrice, days, number);
 
 
     }
