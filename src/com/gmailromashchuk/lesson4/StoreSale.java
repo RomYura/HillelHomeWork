@@ -20,7 +20,7 @@ public class StoreSale {
 
     }
 
-    private static void summary(double totalPrice, int number, int days) {
+    private static void summary(double totalPrice, int days, int number) {
         double AveragePrice = Math.round(totalPrice / days * 100) / 100.0;
         System.out.printf("Product No: %d smartphone, \n", number);
         System.out.printf("Total sales for this product is EUR %.2f. \n", totalPrice);
